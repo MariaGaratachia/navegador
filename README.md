@@ -3,7 +3,7 @@
 ##INDICE
 
 *[1. Intro](https://github.com/MariaGaratachia/navegador/blob/main/README.md#1intro)
-* [2. Que construi](https://github.com/MariaGaratachia/navegador/blob/main/README.md#1intro)
+* [2. Que construi](https://github.com/MariaGaratachia/navegador/blob/main/README.md#2-que-constru%C3%AD)
 * [3. Objetivo del proyecto](https://github.com/MariaGaratachia/navegador/blob/main/README.md#3-objetivo-del-proyecto)
 
 ****
