@@ -1,8 +1,8 @@
 #  Clonacion de Interfaz de Google
 
-##INDICE
+##INDICE 
 
-*[1. Intro](https://github.com/MariaGaratachia/navegador/blob/main/README.m
+*[1. Intro](https://github.com/MariaGaratachia/navegador/blob/main/README.md#1intro)
 * [2. Que Construí](https://github.com/MariaGaratachia/navegador/blob/main/README.md#1intro)
 * [3. Objetivo del proyecto](https://github.com/MariaGaratachia/navegador/blob/main/README.md#3-objetivo-del-proyecto)
 
