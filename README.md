@@ -4,7 +4,7 @@
 
 *[1. Intro](https://github.com/MariaGaratachia/navegador/blob/main/README.md#1intro)
 * [2. Que construi](https://github.com/MariaGaratachia/navegador/blob/main/README.md#1intro)
-* [3. Objetivo del proyecto](#)
+* [3. Objetivo del proyecto](https://github.com/MariaGaratachia/navegador/blob/main/README.md#3-objetivo-del-proyecto)
 
 ****
 
